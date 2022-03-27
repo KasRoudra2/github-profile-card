@@ -7,7 +7,7 @@
 
 ### Documentation
 
- - Visit this [website](https://kasroudra-github-stats.herokuapp.com)
+ - Visit this [website](https://kasroudra-stats-card.herokuapp.com)
  - Enter your Github username and click submit
  - And boom! Your profile stat card is ready to be shown in your README
 
@@ -17,7 +17,7 @@
 [![stats-card](https://kasroudra-stats-card.herokuapp.com/svg?user=KasRoudra)](https://github.com/KasRoudra/stats-card)
 ```
 
-![stats-card](https://kasroudra-stats-card.herokuapp.com/svg?user=KasRoudra)
+[![stats-card](https://kasroudra-stats-card.herokuapp.com/svg?user=KasRoudra)](https://github.com/KasRoudra/stats-card)
 
 #### Theme
 
@@ -27,7 +27,7 @@
 [![stats-card](https://kasroudra-stats-card.herokuapp.com/svg?user=KasRoudra&theme=dark)](https://github.com/KasRoudra/stats-card)
 ```
 
-![stats-card](https://kasroudra-stats-card.herokuapp.com/svg?user=KasRoudra&theme=dark)
+[![stats-card](https://kasroudra-stats-card.herokuapp.com/svg?user=KasRoudra&theme=dark)](https://github.com/KasRoudra/stats-card)
 
 
 ### Local Test
